@@ -1,4 +1,4 @@
-## Olá eu sou André de Oliveira!
+## Olá, eu sou André de Oliveira!
 
 - Bolsita de P&D na STEM - UEA
 - Academico de Engenharia de Controle e Automação - UEA
