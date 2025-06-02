@@ -13,12 +13,12 @@
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,)](https://skillicons.dev)
 
 ## 🧰 Frameworks: 
-[![My Skills](https://skillicons.dev/icons?i=flask,arduino,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flask,arduino,tensorflow,pytorch)](https://skillicons.dev)
 
 ## 🗄️ Bancos de Dados: 
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
 ## ⚙️ Ferramentas e Tecnologias:
-[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,docker,matlab,)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,docker,matlab,aws,grafana,postman,raspberrypi)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
 
