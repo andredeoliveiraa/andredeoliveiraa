@@ -1,33 +1,41 @@
-# 👋 Olá, eu sou André de Oliveira!
+### 👋 Olá, eu sou o André de Oliveira!
 
-## 💼 Sobre mim
+🎓 Estudante de Engenharia de Controle e Automação pela UEA  
+🔧 Técnico em Automação Industrial pelo IFAM  
+💻 Desenvolvedor de Software na Dipper Automation  
+🌱 Apaixonado por tecnologia, sistemas embarcados, automação e IA
 
-- 💻 Apaixonado por Tecnologia
-- 🎓 Estudante de Engenharia de Controle e Automação na Universidade do Estado do Amazonas
-- 🎓 Técnico em Automação pelo Instituo Federal do Amazonas 
-- 🎓 Trabalhando como Desenvolvedor de Software na Dipper Automation
+---
 
-## 🚀 Habilidades
+### 🚀 Habilidades
 
-Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
+**👨‍💻 Linguagens de Programação:**  
+C | C++ | Python | JavaScript | TypeScript | HTML | CSS | Bash
 
-## 👨‍💻 Linguagens: 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,)](https://skillicons.dev)
+**🧰 Frameworks e Bibliotecas:**  
+ESP-IDF | Arduino | React | Node.js | TensorFlow | Scikit-learn
 
-## 🧰 Frameworks: 
-[![My Skills](https://skillicons.dev/icons?i=flask)](https://skillicons.dev)
+**🗄️ Bancos de Dados:**  
+MongoDB | Firebase | MySQL
 
-## 🗄️ Bancos de Dados: 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongo)](https://skillicons.dev)
-## ⚙️ Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,arduino)](https://skillicons.dev)<br><br>
+**⚙️ Ferramentas e Tecnologias:**  
+Git | GitHub | Docker | MQTT | VS Code | MATLAB | Inventor | Linux
 
-## 📫 Contato
+---
 
-![Gmail Badge](https://img.shields.io/badge/-andreoliveira25000@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andreoliveira25000@gmail.com)
-[![Linkedin: andredeoliveiras](https://img.shields.io/badge/-andredeoliveiras-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andredeoliveiras/)](https://www.linkedin.com/in/andredeoliveiras/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/SeuUsuario?style=social)]({Link}) <br><br>
+### 📫 Contato
 
-![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26&show_icons=true&theme=dark) <br><br>
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:andredeoliveiras@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andredeoliveiras/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/andredeoliveiras)
 
-Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
+---
+
+### 📊 GitHub Stats
+
+![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiasEllen26&layout=compact&theme=dracula)
+
+---
+
+💬 Fique à vontade para me chamar para conversar sobre projetos, tecnologia ou colaborações interessantes. Será um prazer trocar ideias!
