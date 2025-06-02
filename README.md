@@ -8,7 +8,7 @@
 - 🌱 Apaixonado por tecnologia, sistemas embarcados, automação e IA
 
 ## 🚀 Habilidades
-<br><br>
+<br>
 
 ## 👨‍💻 Linguagens: 
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,)](https://skillicons.dev)
