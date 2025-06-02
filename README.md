@@ -24,7 +24,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 
 ## 📫 Contato
 
-![Gmail Badge](https://img.shields.io/badge/-andreoliveira25000@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andreoliveira25000@outlook.com)
+![Gmail Badge](https://img.shields.io/badge/-andreoliveira25000@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andreoliveira25000@gmail.com)
 [![Linkedin: andredeoliveiras](https://img.shields.io/badge/-andredeoliveiras-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andredeoliveiras/)](https://www.linkedin.com/in/andredeoliveiras/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SeuUsuario?style=social)]({Link}) <br><br>
 
