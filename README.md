@@ -1,41 +1,31 @@
-### 👋 Olá, eu sou o André de Oliveira!
+# 👋 Olá, eu sou André de Oliveira!
 
-🎓 Estudante de Engenharia de Controle e Automação pela UEA  
-🔧 Técnico em Automação Industrial pelo IFAM  
-💻 Desenvolvedor de Software na Dipper Automation  
-🌱 Apaixonado por tecnologia, sistemas embarcados, automação e IA
+## 💼 Sobre mim
 
----
+- 🎓 Estudante de Engenharia de Controle e Automação na UEA
+- 🎓 Técnico em Automação pelo IFAM
+- 💻 Desenvolvedor de Software na Dipper Automation
+- 🌱 Apaixonado por tecnologia, sistemas embarcados, automação e IA
 
-### 🚀 Habilidades
+## 🚀 Habilidades
 
-**👨‍💻 Linguagens de Programação:**  
-C | C++ | Python | JavaScript | TypeScript | HTML | CSS | Bash
+## 👨‍💻 Linguagens: 
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,)](https://skillicons.dev)
 
-**🧰 Frameworks e Bibliotecas:**  
-ESP-IDF | Arduino | React | Node.js | TensorFlow | Scikit-learn
+## 🧰 Frameworks: 
+[![My Skills](https://skillicons.dev/icons?i=flask,arduino,)](https://skillicons.dev)
 
-**🗄️ Bancos de Dados:**  
-MongoDB | Firebase | MySQL
+## 🗄️ Bancos de Dados: 
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
+## ⚙️ Ferramentas e Tecnologias:
+[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,docker,matlab,)](https://skillicons.dev)<br><br>
 
-**⚙️ Ferramentas e Tecnologias:**  
-Git | GitHub | Docker | MQTT | VS Code | MATLAB | Inventor | Linux
-
----
-
-### 📫 Contato
+## 📫 Contato
 
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:andredeoliveiras@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andredeoliveiras/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/andredeoliveiras)
+<br><br>
 
----
+![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26&show_icons=true&theme=dark) <br><br>
 
-### 📊 GitHub Stats
-
-![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiasEllen26&layout=compact&theme=dracula)
-
----
-
-💬 Fique à vontade para me chamar para conversar sobre projetos, tecnologia ou colaborações interessantes. Será um prazer trocar ideias!
+Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
