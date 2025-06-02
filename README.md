@@ -18,7 +18,7 @@
 ## 🗄️ Bancos de Dados: 
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
 ## ⚙️ Ferramentas e Tecnologias:
-[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,docker,matlab,aws,grafana,postman,raspberrypi)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,docker,matlab,aws,grafana,postman,raspberrypi)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
 
