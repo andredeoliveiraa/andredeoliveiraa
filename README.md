@@ -1,10 +1,11 @@
-# 👋 Olá, eu sou {André de Oliveira}
+# 👋 Olá, eu sou André de Oliveira 
 
-## 💼 Perfil Profissional
+## 💼 Sobre mim
 
-- 💻 Estudante de Programação
-- 🌱 Apaixonado por Tecnologia
-- 🎓 Cursando [Nome do Curso / Instituição]
+- 💻 Apaixonado por Tecnologia
+- 🎓 Estudante de Engenharia de Controle e Automação na Universidade do Estado do Amazonas
+- 🎓 Técnico em Automação pelo Instituo Federal do Amazonas 
+- 🎓 Trabalhando como Desenvolvedor de Software na Dipper Automation
 
 ## 🚀 Habilidades
 
