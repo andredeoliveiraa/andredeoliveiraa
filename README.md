@@ -2,9 +2,9 @@
 
 ## 💼 Sobre mim
 
-- 🎓 Estudante de Engenharia de Controle e Automação na UEA
-- 🎓 Técnico em Automação pelo IFAM
-- 💻 Desenvolvedor de Software na Dipper Automation
+- 🎓 Estudante de Engenharia de Controle e Automação na [Universidade do Estado do Amazonas (UEA)](https://www.uea.edu.br/)
+- 🎓 Técnico em Automação pelo [Instituto Federal do Amazonas (IFAM)](https://www.ifam.edu.br/)
+- 💻 Desenvolvedor de Software na Dipper Automation [Dipper Automation (Dipper)](https://dipperauto.com/))
 - 🌱 Apaixonado por tecnologia, sistemas embarcados, automação e IA
 
 ## 🚀 Habilidades
