@@ -28,4 +28,4 @@
 
 ![andredeoliveiraa GitHub stats](https://github-readme-stats.vercel.app/api?username=andredeoliveiraa&show_icons=true&theme=dark)
 
-Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
+Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à tecnologia! 😊
