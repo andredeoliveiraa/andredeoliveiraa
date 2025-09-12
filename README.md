@@ -4,7 +4,6 @@
 
 - 🎓 Estudante de Engenharia de Controle e Automação na [Universidade do Estado do Amazonas](https://www.uea.edu.br/)
 - 🎓 Técnico em Automação pelo [Institudo Federal do Amazonas](https://www.ifam.edu.br/)
-- 💻 Desenvolvedor de Software na [Dipper Automation](https://dipperauto.com/)
 - 🌱 Apaixonado por tecnologia, sistemas embarcados, automação e IA
 
 ## 🚀 Habilidades
